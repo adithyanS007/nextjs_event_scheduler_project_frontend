@@ -1,4 +1,4 @@
-// 📁 app/new-event/page.js
+// app/new-event/page.js
 'use client';
 
 import { gql, useMutation } from '@apollo/client';

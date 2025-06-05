@@ -1,4 +1,4 @@
-// 📁 components/EventForm.jsx
+// components/EventForm.jsx
 'use client';
 
 import { useState, useEffect, useRef } from 'react';
